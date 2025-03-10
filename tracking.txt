@@ -6,3 +6,6 @@
 dmp.one
 seedtag.com
 contextualadv.com
+adtrafficquality.google
+google-analytics.com
+googletagmanager.com
