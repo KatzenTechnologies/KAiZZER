@@ -6,17 +6,17 @@ Use UBlock origin and import user rules, paste our urls to textbox.\
 You can use copy function.\
 ## Ads blocking
 ```
-https://katzentechnologies.github.io/kcdn?q=a
+https://raw.githubusercontent.com/KatzenTechnologies/KAiZZER/refs/heads/main/ads.txt
 ```
 ## Tracking blocking (Recommended with ads blocker)
 ```
-https://katzentechnologies.github.io/kcdn?q=t
+https://raw.githubusercontent.com/KatzenTechnologies/KAiZZER/refs/heads/main/tracking.txt
 ```
 ## Malware blocking
 ```
-https://katzentechnologies.github.io/kcdn?q=m
+https://raw.githubusercontent.com/KatzenTechnologies/KAiZZER/refs/heads/main/malware.txt
 ```
 ## Gambling/Betting/Casino blocking
 ```
-https://katzentechnologies.github.io/kcdn?q=g
+https://raw.githubusercontent.com/KatzenTechnologies/KAiZZER/refs/heads/main/gambling.txt
 ```
