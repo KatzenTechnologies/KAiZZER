@@ -1,0 +1,5 @@
+! Version: 20250310
+! Title: KAiZZER Gambling block
+! Description: Blocks gambling/betting/casino websites
+! Expires: 3 days (update frequency)
+100zencasino.com
