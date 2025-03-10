@@ -1,0 +1,8 @@
+! Version: 20250310
+! Title: KAiZZER Anti-tracking
+! Description: Blocks tracking
+! Expires: 1 days (update frequency)
+*.comivitrack.com
+dmp.one
+seedtag.com
+contextualadv.com
