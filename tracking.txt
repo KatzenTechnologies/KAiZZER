@@ -1,4 +1,4 @@
-! Version: 20250310
+! Version: 20250311
 ! Title: KAiZZER Anti-tracking
 ! Description: Blocks tracking
 ! Expires: 1 days (update frequency)
@@ -9,3 +9,11 @@ contextualadv.com
 adtrafficquality.google
 google-analytics.com
 googletagmanager.com
+mc.yandex.md
+mc.yandex.ru
+*$ping,3p
+cusemil.com
+uuidksinc.net
+stats.*.com
+stats.*.ru
+stats.*.org
