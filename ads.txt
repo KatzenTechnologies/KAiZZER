@@ -63,4 +63,5 @@ googlesyndication.com
 ||dzen.ru/api/*/stats/
 linkslot.link/bancode_new.php
 ads-lot.ru/vitrine1.php
-
+up4pc.com##div[class="code-block"]
+setsuge.icu
