@@ -17,3 +17,4 @@ uuidksinc.net
 stats.*.com
 stats.*.ru
 stats.*.org
+counter.yadro.ru
