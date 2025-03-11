@@ -1,4 +1,4 @@
-! Version: 20250310
+! Version: 20250311
 ! Title: KAiZZER Ads block
 ! Description: Blocks ads
 ! Expires: 1 days (update frequency)
@@ -58,3 +58,9 @@ taboola.com
 trustedstack.com
 haxmac.cfd
 googlesyndication.com
+||ads-lot.ru/share42.js
+/ads*/banner_
+||dzen.ru/api/*/stats/
+linkslot.link/bancode_new.php
+ads-lot.ru/vitrine1.php
+
