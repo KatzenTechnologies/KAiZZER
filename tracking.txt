@@ -1,3 +1,4 @@
+
 ! Version: 20250314
 ! Title: KAiZZER Anti-tracking
 ! Description: Blocks tracking
@@ -22,8 +23,10 @@ uidsync.net
 */an/tracking/*
 an.yandex.ru
 mc.yandex.ru
-btloader.net
+btloader.com
 amplitude.com
 cloudflareinsights.com
 ezoic.com$3p
 id5-sync.com
+dns-finder.com # Susp due px.gif
+||google.com/images/cleardot.gif # SUSP CONF 98.72%
