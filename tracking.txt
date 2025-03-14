@@ -1,4 +1,4 @@
-! Version: 20250311
+! Version: 20250314
 ! Title: KAiZZER Anti-tracking
 ! Description: Blocks tracking
 ! Expires: 1 days (update frequency)
@@ -18,3 +18,12 @@ stats.*.com
 stats.*.ru
 stats.*.org
 counter.yadro.ru
+uidsync.net
+*/an/tracking/*
+an.yandex.ru
+mc.yandex.ru
+btloader.net
+amplitude.com
+cloudflareinsights.com
+ezoic.com$3p
+id5-sync.com
