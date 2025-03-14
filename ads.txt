@@ -1,4 +1,4 @@
-! Version: 20250311
+! Version: 20250314
 ! Title: KAiZZER Ads block
 ! Description: Blocks ads
 ! Expires: 1 days (update frequency)
@@ -65,3 +65,8 @@ linkslot.link/bancode_new.php
 ads-lot.ru/vitrine1.php
 up4pc.com##div[class="code-block"]
 setsuge.icu
+push-sdk.com
+uidsync.net
+*/ads/*
+*/partner-code-bundles/*
+##div[id^="yandex_rtb_"]
