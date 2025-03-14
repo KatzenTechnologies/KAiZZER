@@ -70,3 +70,11 @@ uidsync.net
 */ads/*
 */partner-code-bundles/*
 ##div[id^="yandex_rtb_"]
+*.linkify.ru/1463466.sw.js
+ad-delivery.net
+doubleclick.net
+ezodn.com
+ezojs.com
+ezoic.com$3p
+id5-sync.com
+otnolatrnup.com
