@@ -57,7 +57,6 @@ sync-service.net
 taboola.com
 trustedstack.com
 haxmac.cfd
-googlesyndication.com
 ||ads-lot.ru/share42.js
 /ads*/banner_
 ||dzen.ru/api/*/stats/
@@ -88,4 +87,4 @@ sutheksoumt.net
 gauchausta.com
 62ad.com
 .center-ad
-googletagservices_gpt.js:5
+||securepubads.g.doubleclick.net/tag/js/gpt.js$script
