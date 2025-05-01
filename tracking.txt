@@ -26,6 +26,8 @@ mc.yandex.ru
 btloader.com
 amplitude.com
 cloudflareinsights.com
+collector.github.com
+github.com/_private/browser/stats
 ezoic.com$3p
 id5-sync.com
 dns-finder.com # Susp due px.gif
