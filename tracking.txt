@@ -33,3 +33,14 @@ id5-sync.com
 dns-finder.com # Susp due px.gif
 ||google.com/images/cleardot.gif # SUSP CONF 98.72%
 js.wpnsrv.com
+madurird.com
+aiharsoreersu.net
+ecuelleribose.com
+ced.sascdn.com/tag/*/smart.js
+count-server.sharethis.com
+t.sharethis.com
+company-target.com
+crwdcntrl.net
+googletagservices.com
+mc.webvisor.org
+adsco.re
