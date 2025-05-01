@@ -32,3 +32,4 @@ ezoic.com$3p
 id5-sync.com
 dns-finder.com # Susp due px.gif
 ||google.com/images/cleardot.gif # SUSP CONF 98.72%
+js.wpnsrv.com
