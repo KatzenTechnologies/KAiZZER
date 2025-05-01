@@ -261,3 +261,15 @@ gamdom.*
 TRGamdom.com
 Gogamdom.com
 iamthecity.moscow
+case-battl.ru
+case-battle.at
+hellcase.co
+topskin.cc
+ggdrop.red
+ggdrop.*
+mycsgo.club
+csgo.net
+easy-drop.vip
+skinbox.fun
+hyper-drop.com
+cs2case.io
