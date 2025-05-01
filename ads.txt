@@ -1,4 +1,4 @@
-! Version: 20250314
+`! Version: 20250314
 ! Title: KAiZZER Ads block
 ! Description: Blocks ads
 ! Expires: 1 days (update frequency)
@@ -71,7 +71,6 @@ uidsync.net
 ##div[id^="yandex_rtb_"]
 *.linkify.ru/1463466.sw.js
 ad-delivery.net
-doubleclick.net
 ezodn.com
 ezojs.com
 ezoic.com$3p
@@ -88,3 +87,4 @@ gauchausta.com
 62ad.com
 .center-ad
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
