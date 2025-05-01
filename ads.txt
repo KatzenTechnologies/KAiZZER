@@ -88,3 +88,9 @@ gauchausta.com
 .center-ad
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+pushpad.xyz
+a-ads.com
+neon.today
+*.rsc.cdn77.org
+exdynsrv.com
+magsrv.com
