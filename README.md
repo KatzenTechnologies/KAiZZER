@@ -1,6 +1,6 @@
 # KAiZZER
-Blocking rules for people.\
-Absolutely experimental. Except bugs and unblocking some providers of content, report them to issues\
+Blocking rules for UBlock Origin.\
+Absolutely experimental. Except bugs and don't blocking some providers of ads, report them to issues
 # How to install?
 Use UBlock origin and import user rules, paste our urls to textbox.\
 You can use copy function.
