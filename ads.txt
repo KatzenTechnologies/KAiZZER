@@ -87,3 +87,5 @@ sticmulune.com
 sutheksoumt.net
 gauchausta.com
 62ad.com
+.center-ad
+googletagservices_gpt.js:5
