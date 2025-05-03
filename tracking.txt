@@ -45,3 +45,4 @@ googletagservices.com
 mc.webvisor.org
 adsco.re
 rtmark.net
+pixel.wp.com
