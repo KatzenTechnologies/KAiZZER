@@ -46,3 +46,5 @@ mc.webvisor.org
 adsco.re
 rtmark.net
 pixel.wp.com
+tjk-njk.com
+ab1n.net # SUSPICIOUS
