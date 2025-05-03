@@ -129,3 +129,8 @@ div[class="ad-banner"]
 skated.co
 effortblend.co
 eliteeyeview.co
+orbsrv.com
+opoxv.com
+ab1n.net # SUSPICIOUS
+tsyndicate.com
+ad-delivery.net
