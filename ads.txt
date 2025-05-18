@@ -143,3 +143,6 @@ aetvellt.net
 tgads.space
 sonartech.io
 tmll1.com
+/clicks/
+/nty/postback/click?key=
+/partitial/
