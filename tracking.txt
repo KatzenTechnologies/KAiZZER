@@ -49,3 +49,4 @@ pixel.wp.com
 tjk-njk.com
 ab1n.net # SUSPICIOUS
 /clicks/
+||google-analytics.com/ga.js$script,redirect-rule=google-analytics.com/ga.js:5
