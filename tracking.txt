@@ -58,3 +58,4 @@ browser-updater.yandex.net
 yandex.ru/clck/
 yandex.ru##+js(remove-cookie, /^bltsr$|^JPIqApiY$|^specific$|^substantial$/)
 yandex.ru##+js(set-cookie, gdpr, 0)
+/?sentry_version=
