@@ -50,3 +50,11 @@ tjk-njk.com
 ab1n.net # SUSPICIOUS
 /clicks/
 ||google-analytics.com/ga.js$script,redirect-rule=google-analytics.com/ga.js:5
+||googletagmanager.com/gtm.js$script,3p,redirect-rule=googletagmanager_gtm.js
+cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js
+cdn.livechatinc.com/tracking.js
+steamcommunity.com##+js(href-sanitizer, a[href^="https://steamcommunity.com/linkfilter/?url=http"], ?url)
+browser-updater.yandex.net
+yandex.ru/clck/
+yandex.ru##+js(remove-cookie, /^bltsr$|^JPIqApiY$|^specific$|^substantial$/)
+yandex.ru##+js(set-cookie, gdpr, 0)
