@@ -144,7 +144,7 @@ tgads.space
 sonartech.io
 tmll1.com
 /clicks/
-/nty/postback/click?key=
+/nty/postback/click
 /partitial/
 adfinity.pro$3p
 advmusic.com$3p
