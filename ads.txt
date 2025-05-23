@@ -157,3 +157,13 @@ mopinion.com
 kjfhenoqfyfljo.com
 iubenda.com
 fvcwqkkqmuv.com
+adtago.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+analytics.s3.amazonaws.com
+advice-ads.s3.amazonaws.com
+ads30.adcolony.com
+adc3-launch.adcolony.com
+events3alt.adcolony.com
+wd.adcolony.com
+ad.doubleclick.net
+media.net$3p
