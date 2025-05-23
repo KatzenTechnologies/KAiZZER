@@ -325,3 +325,14 @@ hellcase.com
 hellcase.org
 hellcase.space
 csgofast.com
+g4skins.com
+rain.gg
+csgobroker.me
+play500.games
+*.casino
+csgoempire.io
+csgoluck.com
+playplg.com
+csgopositive.gg
+skinrave.gg
+howly.gg
