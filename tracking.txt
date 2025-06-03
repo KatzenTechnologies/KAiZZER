@@ -86,3 +86,7 @@ log.pinterest.com
 analytics.pinterest.com
 trk.pinterest.com
 ads.youtube.com
+hif.to/rkstat
+bestcatgroup.com
+metrika.traff.space
+app.turbobit.net/js/analytics/*
