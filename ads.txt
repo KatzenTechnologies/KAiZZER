@@ -1,4 +1,4 @@
-`! Version: 20250314
+! Version: 20250603
 ! Title: KAiZZER Ads block
 ! Description: Blocks ads
 ! Expires: 1 days (update frequency)
