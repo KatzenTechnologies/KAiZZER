@@ -90,3 +90,5 @@ hif.to/rkstat
 bestcatgroup.com
 metrika.traff.space
 app.turbobit.net/js/analytics/*
+pubtrky.com
+mdstats.info
