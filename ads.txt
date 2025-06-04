@@ -189,6 +189,9 @@ obqj2.com
 madurird.com
 sokajecorin.com
 onesignal.com$3p
-
+lijit.com
+casalemedia.com
+yandex.ru/ads/system/context.js
+clarity.ms
 mirrored.to##form
 freesoft.ru##[src^="https://freesoft.ru/sponsored/"]
