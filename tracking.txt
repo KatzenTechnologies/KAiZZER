@@ -93,3 +93,6 @@ app.turbobit.net/js/analytics/*
 pubtrky.com
 mdstats.info
 fcpe.beeline.ru/sync/me
+wecantrack.com$3p
+btmessage.com
+clarity.ms
