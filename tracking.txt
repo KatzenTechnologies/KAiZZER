@@ -92,3 +92,4 @@ metrika.traff.space
 app.turbobit.net/js/analytics/*
 pubtrky.com
 mdstats.info
+fcpe.beeline.ru/sync/me
