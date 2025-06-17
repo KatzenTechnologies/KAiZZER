@@ -195,3 +195,14 @@ yandex.ru/ads/system/context.js
 clarity.ms
 mirrored.to##form
 freesoft.ru##[src^="https://freesoft.ru/sponsored/"]
+##.adssquare
+pubfuture-ad.com
+dlmonetize.com
+cfdpush.cfd
+sendfiles.cfd
+cfdsendr.cfd
+boostads.cfd
+amazon-adsystem.com
+richaudience.com$3p
+avplayer.com
+vidcrunch.com$3p
