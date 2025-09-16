@@ -191,7 +191,7 @@ sokajecorin.com
 onesignal.com$3p
 lijit.com
 casalemedia.com
-yandex.ru/ads/system/context.js
+yandex.ru/ads/*
 clarity.ms
 mirrored.to##form
 freesoft.ru##[src^="https://freesoft.ru/sponsored/"]
@@ -275,3 +275,9 @@ catsnetwork.ru
 weborama-tech.ru
 videoroll.net
 video-mech.ru
+digitaltarget.ru
+ad.mail.ru
+gnezdo.ru
+2xclick.ru
+vak345.com
+sparrow.ru
